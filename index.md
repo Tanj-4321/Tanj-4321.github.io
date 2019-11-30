@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to TanJ
 
-You can use the [editor on GitHub](https://github.com/Tanj-4321/Tanj-4321.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are the group of four that want to make a difference in the world by using the knowledge we have and starve towards changing the world.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Projects
 
-### Markdown
+#### Soldier Assistant System using Augmented Reality and Machine Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The military sector has always been at the forefront of using emerging technological advancements for the purposes of training and combat enhancements.
+Because warfare is constantly evolving, armies have to keep up with the newest military “trends” and look for opportunities to get ahead in the technological war. We can solve it using Tactical Augmented Reality (TAR) for Soldier Assistant System (SAS).
 
-```markdown
-Syntax highlighted code block
+### Contact Us
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanj-4321/Tanj-4321.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email Address: tanjtanj321@gamil.com
